@@ -9,7 +9,12 @@ twint -u arvindkejriwal -s crime          -o kejriwal_crime.csv                 
 twint -u arvindkejriwal -s sports         -o kejriwal_sports.csv                    --csv
 twint -u arvindkejriwal -s unemployment   -o kejriwal_unemployment.csv                    --csv
 
-
+twint -u narendramodi -s education      -o modi_education.csv                    --csv
+twint -u narendramodi -s economy        -o modi_economy.csv                    --csv
+twint -u narendramodi -s poverty        -o modi_poverty.csv                    --csv
+twint -u narendramodi -s crime          -o modi_crime.csv                    --csv
+twint -u narendramodi -s sports         -o modi_sports.csv                    --csv
+twint -u narendramodi -s unemployment   -o modi_unemployment.csv                    --csv
 
 
 twint -u rahulgandhi -s education -o rahulgandhi_education.csv --csv
