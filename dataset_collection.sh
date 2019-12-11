@@ -15,7 +15,10 @@ twint -u narendramodi -s poverty        -o modi_poverty.csv                    -
 twint -u narendramodi -s crime          -o modi_crime.csv                    --csv
 twint -u narendramodi -s sports         -o modi_sports.csv                    --csv
 twint -u narendramodi -s unemployment   -o modi_unemployment.csv                    --csv
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8acc7a636f93aa356e0aa16f83a71e64f68a511f
 
 
 twint -u rahulgandhi -s education -o rahulgandhi_education.csv --csv
